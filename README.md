@@ -1,8 +1,7 @@
 # Microsoft-Partner-Scripts
 Unofficial Powershell Scripts for Microsoft Partners / CSP
-#############################################
+
 --------------- Pre Requirements 
-#############################################
 
 https://docs.microsoft.com/en-us/microsoft-365/enterprise/connect-to-microsoft-365-powershell?view=o365-worldwide#step-1-install-the-required-software-1
 
@@ -22,9 +21,7 @@ This will either show you an error or just continue to a new line, if error, che
 
 ## NOTE LEAVE THIS POWERSHELL WINDOWS OPEN SEE BELOW USAGE ##
 
-#############################################
 --------------- Usage ADD NEW GA
-#############################################
 
 Right Click on "ADD Global Admin To ALL Tenants.ps1" and edit with notepad and edit the following values
 
@@ -41,9 +38,7 @@ Type: '.\ADD Global Admin To ALL Tenants.ps1'
 This will run through every tenant and add a new Global Administrator to everyone that your partner account has access to
 If you see red errors pop-up on the screen, Usually its permissions.
 
-#############################################
 --------------- Usage Remove GA
-#############################################
 
 If you would like to bulk remove the Global Administrators you just created
 
