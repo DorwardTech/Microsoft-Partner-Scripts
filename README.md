@@ -28,7 +28,7 @@ Right Click on "ADD Global Admin To ALL Tenants.ps1" and edit with notepad and e
 - $AdminFirstName = "FirstName" - First Name of NEW Admin Account
 - $AdminLastName = "LastName" - Last Name of NEW Admin Account
 - $AdminUserName = "UserName" - Username of NEW Admin Account
-- $AdminPassword = "SetMeToSomeThing9#$" - Password of NEW Admin Account 
+- $AdminPassword = "SetMeToSomeThing9$" - Password of NEW Admin Account 
 NOTE: You must choose a strong password that contains 8 to 16 characters, a combination of letters, and at least one number or symbol.
 
 Save the file
